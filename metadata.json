@@ -1,0 +1,6 @@
+{
+  "name": "ECO-EXPEDITIONS",
+  "description": "Futuristic Biosphere Expeditions, Neural-Link Synchronization, Active Sectors Telemetrics, and Ecological Booking Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
